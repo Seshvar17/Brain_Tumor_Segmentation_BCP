@@ -6,10 +6,6 @@ This project focuses on building a deep learning model to automatically segment 
 
 Students will learn how to process medical imaging data, work with NIfTI files, build deep learning models, evaluate performance, and visualize results.
 
-***Objectives***
-
-- Understand MRI data and NIfTI file formats
-- Preprocess 3D MRI scans (slicing, normalization, resizing)
-- Build and train a U-Net segmentation model
-- Evaluate performance using Dice Score and IoU
-- Visualize predicted masks compared to ground truth
+***Required Tools***
+[Github Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+[Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook)
